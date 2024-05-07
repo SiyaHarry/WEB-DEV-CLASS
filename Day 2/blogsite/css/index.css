@@ -1,0 +1,25 @@
+.image-style {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.nav-link{
+    list-style-type: none;
+    margin: 15px;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(196, 123, 123);
+    margin-top: 10px;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+}
